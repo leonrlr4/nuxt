@@ -20,7 +20,7 @@
     "lodash": "^4.17.15",
     "marked": "^1.0.0",
     "micro": "^9.3.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "normalize.css": "^8.0.1",
     "nuxt-edge": "^2.13.0-26496727.6a6794e0",
     "nuxt-svg-loader": "^1.2.0",
