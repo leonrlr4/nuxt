@@ -17,7 +17,7 @@
     "glob": "^7.1.6",
     "highlight.js": "^10.0.2",
     "intersection-observer": "^0.10.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "marked": "^1.0.0",
     "micro": "^9.3.4",
     "node-fetch": "^2.6.0",
